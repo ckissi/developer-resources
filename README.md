@@ -159,6 +159,7 @@ A comprehensive collection of tools, libraries, and resources for web developers
 | [DaFont](https://www.dafont.com/)                                      | Extensive archive of downloadable fonts         |
 | [Fontjoy](https://fontjoy.com/)                                        | AI-powered font pairing generator               |
 | [FontPair](https://fontpair.co/)                                       | Curated Google Font combinations                |
+| [FontsWiki](https://fontswiki.com/)                                     | Searchable font catalog with free alternatives and fonts-in-use references |
 | [Fonts Arena](https://fontsarena.com/)                                 | Premium font alternatives and free options      |
 | [Befonts](https://befonts.com/)                                        | High-quality free fonts for designers           |
 | [Font Space](https://www.fontspace.com/)                               | Designer-centered font website with previews    |
