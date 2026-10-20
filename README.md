@@ -321,6 +321,7 @@ A comprehensive collection of tools, libraries, and resources for web developers
 | [BUNDLEPHOBIA](https://bundlephobia.com)  | Find the cost of adding NPM packages        |
 | [Carbon](https://carbon.now.sh)           | Create beautiful code screenshots           |
 | [transform](https://transform.tools)      | Polyglot code converter and transformer     |
+| [BestJSON JSON Diff](https://bestjson.com/json-diff) | Compare JSON structures and inspect changed values by path in the browser |
 | [Regex101](https://regex101.com)          | Online regex tester with explanations       |
 | [i Hate Regex](https://ihateregex.io)     | Regex cheatsheet with visual explanations   |
 | [CSS to JS](https://css2js.dotenv.dev/)   | Convert CSS to JavaScript objects           |
