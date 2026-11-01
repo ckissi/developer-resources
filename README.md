@@ -325,6 +325,7 @@ A comprehensive collection of tools, libraries, and resources for web developers
 | [i Hate Regex](https://ihateregex.io)     | Regex cheatsheet with visual explanations   |
 | [CSS to JS](https://css2js.dotenv.dev/)   | Convert CSS to JavaScript objects           |
 | [Responsively](https://responsively.app/) | Test responsive designs across devices      |
+| [agent-qa](https://vostride.com)           | Natural-language web and mobile QA with persistent memory and self-improvement |
 | [DevToolLab](https://devtoollab.com)      | Discover and explore developer tools        |
 
 ---
